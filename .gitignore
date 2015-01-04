@@ -1,0 +1,14 @@
+/ipch/
+/Win32/
+*.sdf
+*.sln
+*.suo
+/screencut/Debug/
+/screencut/GeneratedFiles/
+/screencut/image/
+/screencut/PNG/
+/screencut/Release/
+/screencut/Resources/
+/screencut/screencut.vcxproj
+/screencut/screencut.vcxproj.filters
+/screencut/screencut.vcxproj.user
